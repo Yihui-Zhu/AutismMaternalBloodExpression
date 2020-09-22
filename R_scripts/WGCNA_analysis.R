@@ -276,17 +276,14 @@ geneInfo = geneInfo0[geneOrder, ]
 
 write.csv(geneInfo, file = "MARBLES_Microarray/geneInfo.csv")
 
-hubs    =
+hubs =
   chooseTopHubInEachModule(
     datExpr, 
     moduleColors, 
     omitColors = "grey", 
     power = 2, 
     type = "signed")
-hubs
-length(hubs)
 write.csv(hubs, "MARBLES_Microarray/hubs.csv")
-genes
 
 hubs_genes = as.data.frame(hubs)
 hubs_genes$module = rownames(hubs_genes)
