@@ -12,6 +12,8 @@ Step 4: Correlation next analysis
 
 Preprint is available at: https://www.biorxiv.org/content/10.1101/2020.05.14.096586v1
 
+Full Publication is available at: Autism Research https://onlinelibrary.wiley.com/doi/full/10.1002/aur.2428
+
 ### Title: Expression changes in immune and epigenetic gene pathways associated with nutritional metabolites in maternal blood from pregnancies resulting in autism and atypical neurodevelopment
 
 ### Abstract: 
